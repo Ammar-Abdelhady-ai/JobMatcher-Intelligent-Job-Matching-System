@@ -31,7 +31,7 @@ Job Matcher is a Python project designed to help users find suitable job opportu
 
 ## Requirements
 
-- **Python 3.x:** The project is built using Python 3.x.
+- **Python 3.8:** The project is built using Python 3.8.
 - **requirements.txt:** Install project dependencies by running the following command:
 
     ```bash
