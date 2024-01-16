@@ -13,10 +13,28 @@ Job Matcher is a Python project designed to help users find suitable job opportu
 - **User CV Input:** Summarize user CVs using transformer models.
 - **Job Matching:** Calculate cosine similarity to identify the most relevant job opportunities.
 
+## Deploying with FastAPI
+
+1. **Run the FastAPI application:**
+
+    ```bash
+    uvicorn fastapi_app:app --reload
+    ```
+
+## Connecting with Streamlit App
+
+2. **Run the Streamlit app:**
+
+    ```bash
+    streamlit run streamlit_app.py
+    ```
+
 ## Requirements
 
 - **Python 3.x:** The project is built using Python 3.x.
 - **requirements.txt:** Install project dependencies by running the following command:
 
-  ```bash
-  pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
+    ```
+Please replace your existing README content with this updated version. Save the changes, and your README file should now be formatted correctly.
