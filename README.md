@@ -37,4 +37,3 @@ Job Matcher is a Python project designed to help users find suitable job opportu
     ```bash
     pip install -r requirements.txt
     ```
-Please replace your existing README content with this updated version. Save the changes, and your README file should now be formatted correctly.
