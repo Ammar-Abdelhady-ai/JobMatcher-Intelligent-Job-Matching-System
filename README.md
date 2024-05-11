@@ -1,5 +1,5 @@
 # JobMatcher-Intelligent-Job-Matching-System
-# [You can try it ih HuggingFace](https://huggingface.co/spaces/MoRa2001/Job-Matcher-Intelligent)
+# [You can try it in HuggingFace](https://huggingface.co/spaces/MoRa2001/Job-Matcher-Intelligent)
 
 
 
