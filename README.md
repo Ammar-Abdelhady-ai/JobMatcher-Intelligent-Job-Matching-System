@@ -1,4 +1,6 @@
 # JobMatcher-Intelligent-Job-Matching-System
+# [You can try it in huggingface]([#](https://huggingface.co/spaces/MoRa2001/Job-Matcher-Intelligent))
+
 
 JobMatcher automates job search by scraping data from LinkedIn, Indeed, Bayt, and Wuzzuf. It leverages transformer models to summarize user CVs and calculates cosine similarity, presenting personalized job recommendations for seamless career opportunities.
 
